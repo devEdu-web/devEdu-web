@@ -60,7 +60,7 @@ My main goal is to be an excellent back end developer and nowadays i'm focused o
 </div>
   
 <div align="center"> 
-    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=devEdu-web&theme=dracul"/>
+    <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=devEdu-web&theme=dracula"/>
 </div>
 
   
