@@ -54,7 +54,7 @@ My main goal is to be an excellent back end developer and nowadays i'm focused o
 ## :grey_exclamation: Profile Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEdu-web&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEdu-web&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 
