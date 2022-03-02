@@ -53,7 +53,7 @@ My main goal is to be an excellent back end developer and nowadays i'm focused o
  -->
 ## :grey_exclamation: Profile Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEdu-web&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devEdu-web&show_icons=true&theme=dracula)
 
   
 
