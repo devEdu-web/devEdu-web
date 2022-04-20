@@ -15,9 +15,9 @@ Regardless of how you got here, I will try to introduce myself to you.
 
 My name is Eduardo Oliveira, I currently live in Brazil, Goiás and I'm studying System Analysis and Devlopment (ADS) at ULBRA university.
 
-I first had contact with programming when I was 15 with **Python**, but started to study for real I was 16 years old and focusing on Javascript. Nowadays I decided to focus on specializing myself in Back-end development with Nodejs and Express.
+I first had contact with programming when I was 15 with **Python**, but started to study for real when I was 16 years old, focusing on Javascript. Nowadays I decided to focus on specializing myself in Back-end development with Nodejs and Express.
 
-In my free time I like to to a lot of different things, depending on what I'm feeling like doing. But mostly, I enjoy spending my time reading, watching tv shows and also working on personal projects.
+In my free time I like to do a lot of different things, depending on what I'm feeling like doing. But mostly, I enjoy spending my time reading, watching tv shows and also working on personal projects.
 <br>
 
 ## Complete Information
@@ -35,6 +35,6 @@ In my free time I like to to a lot of different things, depending on what I'm fe
 
 ## A little bit more about me
 
-* I learned programming logic with on my cellphone because I didn't have a computer at the time but I really wanted to have some contact with programming, so I learned the basics with Python on my phone, but had to stop due to the limitations. 
+* I learned programming logic on my cellphone because I didn't have a computer at the time but I really wanted to have some contact with programming, so I learned the basics with Python on my phone, but had to stop due to the limitations. 
 * I love studying and consuming content in English and I intend to study other languages as well.
 * And I like animes. 
