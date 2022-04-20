@@ -1,5 +1,5 @@
 
-<div style="display: flex; gap: 8px;"> 
+
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/d.santos_404/)
 
@@ -9,16 +9,14 @@
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/astrazyn_)
 
-</div>
+
 
 ## Hello, mate!
-<hr>
 Regardless of how you got here, I will try to introduce myself to you.
 
 <br>
 
 ### Public Information
-<hr>
 
 My name is Eduardo Oliveira, I currently live in Brazil, Goiás and I'm studying System Analysis and Devlopment (ADS) at ULBRA university.
 
@@ -28,7 +26,6 @@ In my free time I like to to a lot of different things, depending on what I'm fe
 <br>
 
 ## Complete Information
-<hr>
 
 * Name: Eduardo Oliveira
 * Age: 18
