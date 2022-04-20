@@ -11,8 +11,6 @@
 ## Hello, mate!
 Regardless of how you got here, I will try to introduce myself to you.
 
-<br>
-
 ### Public Information
 
 My name is Eduardo Oliveira, I currently live in Brazil, Goiás and I'm studying System Analysis and Devlopment (ADS) at ULBRA university.
