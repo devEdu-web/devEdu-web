@@ -13,7 +13,7 @@ Regardless of how you got here, I will try to introduce myself to you.
 
 ### Public Information
 
-My name is Eduardo Oliveira, I currently live in Brazil, Goiás and I'm studying System Analysis and Devlopment (ADS) at ULBRA university.
+My name is Eduardo Oliveira, I currently live in Brazil, Goiás and I'm studying System Analysis and Development (ADS) at ULBRA university.
 
 I first had contact with programming when I was 15 with **Python**, but started to study for real when I was 16 years old, focusing on Javascript. Nowadays I decided to focus on specializing myself in Back-end development with Nodejs and Express.
 
