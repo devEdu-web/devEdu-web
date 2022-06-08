@@ -30,6 +30,7 @@ In my free time I like to do a lot of different things, depending on what I'm fe
     * Express
     * Bootstrap
     * NoSQL (MongoDB) 
+    * Sql (MySQL)
     * Git
 * University: ADS - ULBRA (Ongoing)
 
