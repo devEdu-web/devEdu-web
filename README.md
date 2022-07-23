@@ -26,7 +26,8 @@ In my free time I like to do a lot of different things, depending on what I'm fe
 * Age: 18
 * Location: Itumbiara, Goiás - Brazil
 * Stacks: 
-    * NodeJS
+    * Javascript - NodeJS
+    * Typescript
     * Express
     * Bootstrap
     * NoSQL (MongoDB) 
