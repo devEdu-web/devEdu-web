@@ -40,3 +40,4 @@ In my free time I like to do a lot of different things, depending on what I'm fe
 * I learned programming logic on my cellphone because I didn't have a computer at the time but I really wanted to have some contact with programming, so I learned the basics with Python on my phone, but had to stop due to the limitations. 
 * I love studying and consuming content in English and I intend to study other languages as well.
 * And I like animes. 
+
