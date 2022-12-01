@@ -1,5 +1,5 @@
 
-<img src="https://media.discordapp.net/attachments/611633543420051458/1047803661885116447/image.png?width=1440&height=462" alt="Subline's custom image"/>
+<img src="https://media.discordapp.net/attachments/611633543420051458/1047804652537782303/image.png?width=1440&height=462" alt="Subline's custom image"/>
 
 <div>
 
