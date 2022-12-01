@@ -1,4 +1,6 @@
 
+<img src="https://media.discordapp.net/attachments/611633543420051458/1047803661885116447/image.png?width=1440&height=462" alt="Subline's custom image"/>
+
 <div>
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/d.santos_404/)
