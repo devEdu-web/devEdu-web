@@ -43,4 +43,3 @@ In my free time I like to do a lot of different things, depending on what I'm fe
 * I love studying and consuming content in English and I intend to study other languages as well.
 * And I like animes. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEdu-web&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
